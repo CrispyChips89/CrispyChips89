@@ -1,16 +1,13 @@
-## Hi there 👋
+# 😀 About me
+I'm **CrispyChips89**, but call me **Chip** for short.
 
-<!--
-**CrispyChips89/CrispyChips89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a **Psych Lua coder**, and i do some things in **HScript** too, but i'm still learning how to use it.
+  - *Learning how to draw, animate, and do music, too...*
 
-Here are some ideas to get you started:
+- I work on 3 mods currently: **Bomb Funkin** and **Will Mix** as a artist, and **A Normal Mod on Friday** as director, artist, and coder.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📞 Contacts
+If you want to talk with me:
+- **Discord: `@crispy.chipss`**;
+- **X: https://x.com/@CrispyChips89**;
