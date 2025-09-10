@@ -1,13 +1,9 @@
-# 😀 About me
-I'm **CrispyChips89**, but call me **Chip** for short.
+# hello!!11!
+i'm chip!!1! lolol
+<img style="width: 16px;" src="https://i.pinimg.com/736x/d7/c5/2a/d7c52a6aaad38f3af4f06a14ef374af7.jpg"></img>
 
-- I'm a **Psych Lua coder**, and i do some things in **HScript** too, but i'm still learning how to use it.
-  - *Learning how to draw, animate, and do music, too...*
-
-- I work on 3 mods currently: **Bomb Funkin** and **Will Mix** as a artist, and **A Normal Mod on Friday** as director, artist, and coder.
-
-
-## 📞 Contacts
-If you want to talk with me:
+if you want to talk with me:
 - **Discord: `@crispy.chipss`**;
 - **X: https://x.com/@CrispyChips89**;
+
+![funny teto gif](https://media1.tenor.com/m/Z_jHYKTiYFAAAAAd/kasane-teto.gif)
